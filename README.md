@@ -1,16 +1,27 @@
-## <p align="center">𝐈𝐍𝐅𝐎 </p>
-<p align="center">
-      <img width="736" height="372" src="https://i.ibb.co/MyG2ndcB/66-20250930111604.png">
-</p>
-<p align="center"> ххх </p>
+<table>
+<tr>
 
-<div align="center">
+<td valign="top" width="300">
+<p align="center">какой-то текст, может много текста, а может и нет, всякая информация, сколько влезит, ща мне лень делать всё, пусть будет так.</p>
+<br>
+<br>
+            
+##
 
-| DNI | base; несовершеннолетние |
-| :---: | :---: |
-| **???** | ??? |
+<br>
+<img src="https://i.ibb.co/39cbvk1L/68.png" width="400" height="265">
+</td>
+<td valign="top" width="">
+ <img src="https://i.ibb.co/MyG2ndcB/66-20250930111604.png">
+<div align="center"> 
+<br>
+<br>
+ <p>
+       
+##
 
-</div>
-
-
-
+DNI : base; несовершеннолетние</p>
+<br>
+</td>
+</tr>
+</table>
