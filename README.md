@@ -9,7 +9,7 @@
 ##
 
 <br>
-<img src="https://i.ibb.co/39cbvk1L/68.png" width="400" height="265">
+<img src="https://i.ibb.co/39cbvk1L/68.png">
 </td>
 <td valign="top" width="">
  <img src="https://i.ibb.co/MyG2ndcB/66-20250930111604.png">
