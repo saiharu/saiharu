@@ -2,4 +2,15 @@
 <p align="center">
       <img width="736" height="372" src="https://i.ibb.co/MyG2ndcB/66-20250930111604.png">
 </p>
-<p align="center"> DNI : base, несовершеннолетние </p>
+<p align="center"> ххх </p>
+
+<div align="center">
+
+| DNI | base; несовершеннолетние |
+| :---: | :---: |
+| **???** | ??? |
+
+</div>
+
+
+
