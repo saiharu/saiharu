@@ -2,12 +2,11 @@
 <tr>
 
 <td valign="top" width="300">
-<br>
-<p align="center">mel-phleg; сенситивно-шизоидный; мелатониновый соматип; тревожно-избегающий;
+<p align="center">mel-phleg; сенситивно-шизоидный; мелатониновый соматип; тревожно-избегающий; </p>
             
 ##
 
-𝐈𝐍𝐓 : danganronpa main fd + в целом все работы кодаки; eronique; dcmk; yttd; saihate station; marutoku games; etc. </p>
+<p align="center">𝐈𝐍𝐓 : danganronpa main fd + в целом все работы кодаки; eronique; dcmk; yttd; saihate station; marutoku games; etc. </p>
 <p align="center">𝐃𝐍𝐈 : base; minors;</p>
             
 ##
