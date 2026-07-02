@@ -2,7 +2,7 @@
 <tr>
 
 <td valign="top" width="300">
-<p align="center">infj⠀⚚⠀sp/sx594⠀⚚⠀lvef</p>
+<p align="center">𝗶𝗻𝗳𝗷⠀⚚⠀𝘀𝗽/𝘀𝘅𝟱𝟵𝟰⠀⚚⠀𝗹𝘃𝗲𝗳</p>
 <p align="center">mel-phleg; сенситивно-шизоидный; мелатониновый соматип; тревожно-избегающий; </p>
             
 ##
