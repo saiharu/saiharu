@@ -26,6 +26,7 @@
 𝐁𝐘𝐅 : очень социально тревожный, из-за ментал проблем не выхожу из дома, поэтому нахожусь в сети чуть ли не 24/7. могу показаться слишком замкнутым или холодным из-за проблем с доверием, открываюсь очень постепенно. irl друзей у меня нет. предпочитаю больше слушать, чем говорить. </p>
 
 <div align="center"> 𝐊𝐈𝐍𝐍𝐈𝐄 : shuichi saihara; omori/sunny; homura akemi; sua; yuri; </p>
+  <img src="https://komarev.com/ghpvc/?username=saiharu&style=for-the-badge&color=939393&label=✦"/>
 </td>
 </tr>
 </table>
