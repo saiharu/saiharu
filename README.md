@@ -4,7 +4,7 @@
 <td valign="top" width="300">
               <p align="center">　˳　‎ ‎‎ ૮ 　‎ <img src="https://komarev.com/ghpvc/?username=saiharu&style=for-the-badge&color=939393&label=✦"/>　 ა　　˳　
 <p align="center">𝗶𝗻𝗳𝗷⠀⚚⠀𝘀𝗽/𝘀𝘅𝟱𝟵𝟰⠀⚚⠀𝗹𝘃𝗲𝗳
-<p align="center">mel-phleg; сенситивно-шизоидный; мелатониновый соматип; тревожно-избегающий; </p>
+<p align="center">melphleg; сенситивно-шизоидный; мелатониновый соматип; тревожно-избегающий; </p>
             
 ##
 
