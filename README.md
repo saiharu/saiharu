@@ -23,14 +23,14 @@
        
 ##
 
-𝐁𝐘𝐅 : очень социально тревожный, из-за ментал проблем не выхожу из дома, поэтому нахожусь в сети чуть ли не 24/7. могу показаться слишком замкнутым или холодным из-за проблем с доверием, открываюсь очень постепенно. irl друзей у меня нет. предпочитаю больше слушать, чем говорить. </p>
+𝐁𝐘𝐅 : очень социально тревожный, из-за ментал проблем не выхожу из дома, поэтому нахожусь в сети чуть ли не 24/7. могу показаться слишком замкнутым или холодным из-за проблем с доверием, открываюсь очень постепенно и предпочитаю больше слушать, чем говорить. а ещё я очень люблю кагесай.</p>
 
 <div align="center"> 𝐊𝐈𝐍𝐍𝐈𝐄 : shuichi saihara; omori/sunny; homura akemi; kyoko kirigiri; miyano shiho; michiru ichijou; sua; yuri; ruan mei;</p>
   <br>
   <br>
     <a href="https://t.me/shuwuichi"><img src="https://img.shields.io/badge/Telegram-555555?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-1e2226?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-   <a href="https://steamcommunity.com/"><img src="https://img.shields.io/badge/Steam-1e2226?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+   <a href="https://steamcommunity.com/id/shuuuichi/"><img src="https://img.shields.io/badge/Steam-1e2226?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
 </td>
 </tr>
 </table>
