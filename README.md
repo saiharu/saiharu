@@ -8,7 +8,7 @@
             
 ##
 
-<p align="center">𝐈𝐍𝐓 : danganronpa main fd + в целом все работы кодаки; eronique; dcmk; yttd; saihate station; marutoku games; etc. питаю особую любовь к детективным произведениям. </p>
+<p align="center">𝐈𝐍𝐓 : danganronpa main fd + в целом все работы кодаки; eronique; dcmk; yttd; hsr; saihate station; marutoku games; etc. питаю особую любовь к детективным произведениям. </p>
 <p align="center">𝐃𝐍𝐈 : base; minors;</p>
             
 ##
