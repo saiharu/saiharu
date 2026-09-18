@@ -4,9 +4,7 @@
   <tbody>
     <tr>
       <td style="padding: 20px; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-        
- <img src="https://i.ibb.co/MyG2ndcB/66-20250930111604.png">
-
+<img width="852" height="480" alt="doc_2026-09-18_15-47-38 (1)" src="https://github.com/user-attachments/assets/c431c2e6-c16f-4f63-9258-1c9cfd80f365" />
 </td>
   </tbody>
 </table>
