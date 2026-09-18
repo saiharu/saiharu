@@ -7,7 +7,7 @@
 
 
 
-<p align="center">‎‎‎ ૮ 　‎ <img src="https://komarev.com/ghpvc/?username=saiharu&style=for-the-badge&color=555555&label=👁"/>　 ა　 <img width="20" height="20" alt="undefined - Imgur" src="https://i.ibb.co/XrB8CHtL/103-20260918164556.png" />　˳　 ${\textsf{\color{#585858}𓏽}}$ ⑅　　 
+<p align="center">‎‎‎ ૮ 　‎ <img src="https://komarev.com/ghpvc/?username=saiharu&style=for-the-badge&color=555555&label=✦"/>　 ა　 <img width="20" height="20" alt="undefined - Imgur" src="https://i.ibb.co/XrB8CHtL/103-20260918164556.png" />　˳　 ${\textsf{\color{#585858}𓏽}}$ ⑅　　 
 ${\textsf{\color{#555555}𝄞}}$</p>
 
 <div align="center">
