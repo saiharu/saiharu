@@ -1,3 +1,7 @@
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&color=555555&center=true&multiline=true&width=435&lines=%22Some+stars+only+shine+when;+the+night+is+at+its+darkest.%22)](https://git.io/typing-svg)
+
 <p align="center">‎‎‎ ૮ 　‎ <img src="https://komarev.com/ghpvc/?username=saiharu&style=for-the-badge&color=555555&label=👁"/>　 ა　 <img width="20" height="20" alt="undefined - Imgur" src="https://i.ibb.co/XrB8CHtL/103-20260918164556.png" />　˳　 ${\textsf{\color{#585858}𓏽}}$ ⑅　　 
 ${\textsf{\color{#555555}𝄞}}$</p>
 
