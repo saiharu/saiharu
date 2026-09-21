@@ -1,8 +1,7 @@
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&color=555555&center=true&multiline=true&width=435&lines=%22Some+stars+only+shine+when;+the+night+is+at+its+darkest.%22)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Potta+One&pause=1000&color=AAAAA8&center=true&multiline=true&width=435&lines=%E3%80%8C%E3%83%9C%E3%82%AF%E3%81%AE%E7%B5%B6%E6%9C%9B%E3%81%A8%E5%90%9B%E3%81%AE%E7%9C%9F%E5%AE%9F%E3%81%8C%E4%BA%A4%E5%B7%AE%E3%81%97%E3%81%A6%E3%80%81;%E3%83%9C%E3%82%AF%E3%82%89%E3%81%AF%E4%B8%80%E3%81%A4%E3%81%AB%E3%81%AA%E3%82%8B%E3%80%82%E3%80%8D)](https://git.io/typing-svg)
 
 
 
